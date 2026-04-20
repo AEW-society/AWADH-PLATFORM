@@ -1,0 +1,11 @@
+[
+  {
+    "id": "user-1776250772328-ae49f36b",
+    "name": "AEWS Admin",
+    "email": "admin@aews.org",
+    "role": "admin",
+    "passwordSalt": "462772cba1b85d0459c445d1e1a2a944",
+    "passwordHash": "b0d2cf2008bc46c4d8497f291d7217deae88e43114fea6000f23cfdfaaa01b578e8c0dc4c79dd42753a0a1bf51718f956852635ccd49a28dc4f8716a88fb256d",
+    "createdAt": "2026-04-15T10:59:32.346Z"
+  }
+]

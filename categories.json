@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cat-digital-skills",
+    "name": "Digital Skills",
+    "description": "Foundational and job-ready digital workflows for students, job seekers, and emerging professionals."
+  },
+  {
+    "id": "cat-accounting-tally",
+    "name": "Accounting / Tally",
+    "description": "Accounting basics, Tally workflows, and practical office-ready data management."
+  },
+  {
+    "id": "cat-communication",
+    "name": "Communication",
+    "description": "Spoken communication, client handling, and confidence-building for professional settings."
+  },
+  {
+    "id": "cat-event-management",
+    "name": "Event Management",
+    "description": "Planning, coordination, field execution, and volunteer-led event delivery."
+  }
+]

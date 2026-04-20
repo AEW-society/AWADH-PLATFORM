@@ -1,0 +1,34 @@
+[
+  {
+    "id": "class-digital-foundations",
+    "categoryId": "cat-digital-skills",
+    "title": "Digital Foundations for Everyday Work",
+    "thumbnail": "/assets/aews-logo.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+    "description": "A beginner-friendly class focused on digital confidence, online workflows, and productivity basics for study and work."
+  },
+  {
+    "id": "class-tally-practical",
+    "categoryId": "cat-accounting-tally",
+    "title": "Practical Tally and Data Entry Essentials",
+    "thumbnail": "/assets/aews-logo.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+    "description": "An introductory accounting support program covering Tally workflows, data entry quality, and office documentation habits."
+  },
+  {
+    "id": "class-professional-communication",
+    "categoryId": "cat-communication",
+    "title": "Professional Communication and Calling Skills",
+    "thumbnail": "/assets/aews-logo.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+    "description": "Improve spoken communication, customer conversations, and professional confidence for service and support roles."
+  },
+  {
+    "id": "class-event-execution",
+    "categoryId": "cat-event-management",
+    "title": "Event Management and Field Coordination",
+    "thumbnail": "/assets/aews-logo.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+    "description": "Learn the fundamentals of campaign planning, volunteer coordination, logistics, and public-facing event support."
+  }
+]
